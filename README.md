@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prayuj
 - 👀 I’m interested in full stack developement and pizza
-- 🌱 I’m currently doing Andrew Mead's Node js course
+- 🌱 I’m currently working on my portfolio
 - 📫 How to reach me: prayuj@gmail.com
 
 <!---
