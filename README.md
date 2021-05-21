@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on my portfolio
 - 📫 How to reach me: prayuj@gmail.com
 
-[![Prayuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayuj)](https://github.com/anuraghazra/github-readme-stats)
+[![Prayuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayuj&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 prayuj/prayuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
