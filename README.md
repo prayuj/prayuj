@@ -1,7 +1,7 @@
 - ✋ Hi, I’m Prayuj
 - 🖥️ I’m interested in full stack developement, web development, IOT and pizza
 - 🚀 Click <a href="https://prayuj.tech" target="_blank">here</a> for my Portfolio!
-- 📧 My Email is prayuj@gmail.com, drop in a Hello!
+- 📧 My Email is connect@prayuj.tech, drop in a Hello!
 
 <sub><p align="center">
   [![Prayuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayuj&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
