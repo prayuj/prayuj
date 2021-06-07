@@ -4,7 +4,7 @@
 - 📧 My Email is connect@prayuj.tech, drop in a Hello!
 
 <sub><p align="center">
-  [![Prayuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayuj&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+  [![Prayuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prayuj&count_private=true&show_icons=true&theme=material-palenight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 </p></sub>
 
 <sub><p align="center">
